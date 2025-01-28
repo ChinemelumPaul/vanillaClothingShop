@@ -950,7 +950,7 @@ footer .copyright {
 /*account page*/
 
 #account {
-  background-image: url(../public/account-image/glowing-spaceship-orbits-planet-starry-galaxy-generated-by-ai.jpg);
+  background-image: url(/public/account-image/glowing-spaceship-orbits-planet-starry-galaxy-generated-by-ai.jpg);
   background-position: center;
   background-size: cover;
   height: 100vh;
