@@ -114,7 +114,7 @@ a {
 
 /* #warm-color {
   height:30vh;
-  background-image: url("../public/beautiful-shot-blue-purple-sky-filled-with-starts.jpg");
+  background-image: url("/beautiful-shot-blue-purple-sky-filled-with-starts.jpg");
   background-size:cover;
   background-position: center;
   border: none;
@@ -123,7 +123,7 @@ a {
 /* Home page */
 
  #hero {
-  background-image: url(../public/hero-image/space-background-realistic-starry-night-cosmos-shining-stars-milky-way-stardust-color-galaxy.jpg);
+  background-image: url(/hero-image/space-background-realistic-starry-night-cosmos-shining-stars-milky-way-stardust-color-galaxy.jpg);
   background-size: cover;
   background-position: center;
   height: 90vh;
@@ -152,7 +152,7 @@ a {
   background-color: transparent;
   color: orange;
   border: none;
-  background-image: url(../public/ye.jpg);
+  background-image: url(/ye.jpg);
   padding: 14px 80px 14px 65px;
   background-repeat: no-repeat;
   cursor: pointer;
@@ -342,7 +342,7 @@ button.abnormal  {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-image: url(../public/banner/explore.jpg);
+  background-image: url(/banner/explore.jpg);
   background-size:cover;
   background-position: center;
   width: 100%;
@@ -378,7 +378,7 @@ button.abnormal  {
   flex-direction: column;
   justify-content: center;
   align-items: flex-end;
-  background-image: url(../public/banner/arrow.jpg);
+  background-image: url(/banner/arrow.jpg);
   background-size:cover;
   background-position: center;
   min-width: 580px;
@@ -408,7 +408,7 @@ button.abnormal  {
 }
 
 #small-banner .banner-box2 {
-  background-image: url(../public/banner/galactic-night-sky-astronomy-science-combined-generative-ai.jpg);
+  background-image: url(/banner/galactic-night-sky-astronomy-science-combined-generative-ai.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -432,19 +432,19 @@ button.abnormal  {
 }
 
 #banner-3 .banner-3-box1{
-  background-image: url(../public/banner/astronaut-explores-outer-dark-space-generative-al.jpg);
+  background-image: url(/banner/astronaut-explores-outer-dark-space-generative-al.jpg);
   background-size: cover;
   background-position: center;
 }
 
 #banner-3 .banner-3-box2 {
-  background-image: url(../public/banner/starry-night-sky.jpg);
+  background-image: url(/banner/starry-night-sky.jpg);
   background-size: cover;
   background-position: center;
 }
 
 #banner-3 .banner-3-box3 {
-  background-image: url(../public/banner/milky-way-full-stars-space.jpg);
+  background-image: url(/banner/milky-way-full-stars-space.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -567,7 +567,7 @@ footer .copyright {
 /* css for men.html/women/html page */
 /* for header */
 #men-page-header {
-  background-image: url(../public/men-women-images/night-sky-glows-with-iridescent-deep-space-generative-ai.jpg);
+  background-image: url(/men-women-images/night-sky-glows-with-iridescent-deep-space-generative-ai.jpg);
   background-size: cover;
   width: 100%;
   height: 90vh;
@@ -583,7 +583,7 @@ footer .copyright {
 }
 
 #women-page-header {
-  background-image: url(../public/men-women-images/liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper.jpg);
+  background-image: url(/men-women-images/liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper.jpg);
   background-size: cover;
   width: 100%;
   height: 90vh;
@@ -681,7 +681,7 @@ footer .copyright {
 
 /* brand page */
 #men-page-header.brand-header {
-  background-image: url(../public/brand-page-images/spaceship-orbits-dark-galaxy-glowing-blue-comet-generated-by-ai.jpg);
+  background-image: url(/brand-page-images/spaceship-orbits-dark-galaxy-glowing-blue-comet-generated-by-ai.jpg);
   background-size: cover;
   background-position: center;
 
@@ -757,7 +757,7 @@ footer .copyright {
 
 #men-page-header.cart-header {
   height: 70vh;
-  background-image: url(../public/wishlist-cart-images/galaxy-night-panorama.jpg);
+  background-image: url(/wishlist-cart-images/galaxy-night-panorama.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -886,7 +886,7 @@ footer .copyright {
 /*wishlist page*/
 #men-page-header.wishlist-header {
   height: 70vh;
-  background-image: url(../public/wishlist-cart-images/fictional-space-background-with-meteorites.jpg);
+  background-image: url(/wishlist-cart-images/fictional-space-background-with-meteorites.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -950,7 +950,7 @@ footer .copyright {
 /*account page*/
 
 #account {
-  background-image: url(/public/account-image/glowing-spaceship-orbits-planet-starry-galaxy-generated-by-ai.jpg);
+  background-image: url(/account-image/glowing-spaceship-orbits-planet-starry-galaxy-generated-by-ai.jpg);
   background-position: center;
   background-size: cover;
   height: 100vh;
@@ -1175,7 +1175,7 @@ footer .copyright {
 
 /* login/register(account page)*/
 #account {
-  background-image: url(../public/account-image/glowing-spaceship-orbits-planet-starry-galaxy-generated-by-ai.jpg);
+  background-image: url(/account-image/glowing-spaceship-orbits-planet-starry-galaxy-generated-by-ai.jpg);
   background-position: center;
   background-size: cover;
   height: 100vh;
@@ -1196,7 +1196,7 @@ footer .copyright {
 
 
   #men-page-header {
-    background-image: url(../public/men-women-images/night-sky-glows-with-iridescent-deep-space-generative-ai.jpg);
+    background-image: url(/men-women-images/night-sky-glows-with-iridescent-deep-space-generative-ai.jpg);
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -1209,7 +1209,7 @@ footer .copyright {
 }
 
 #women-page-header {
-  background-image: url(../public/men-women-images/liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper.jpg);
+  background-image: url(/men-women-images/liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper.jpg);
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -1308,7 +1308,7 @@ footer .copyright {
 
 /* brand page */
 #men-page-header.brand-header {
-  background-image: url(../public/brand-page-images/spaceship-orbits-dark-galaxy-glowing-blue-comet-generated-by-ai.jpg);
+  background-image: url(/brand-page-images/spaceship-orbits-dark-galaxy-glowing-blue-comet-generated-by-ai.jpg);
   background-size: cover;
   background-position: center;
   height: 70vh;
